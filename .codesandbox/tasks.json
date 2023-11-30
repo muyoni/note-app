@@ -8,6 +8,11 @@
       "name": "deno task start",
       "command": "deno task start",
       "runAtStart": true
+    },
+    "choco install deno": {
+      "name": "choco install deno",
+      "command": "choco install deno",
+      "runAtStart": true
     }
   }
 }
